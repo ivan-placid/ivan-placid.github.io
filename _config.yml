@@ -1,9 +1,9 @@
-title: John Doe
-name: John Doe
+title: Bleeding Edge Tech
+name: Ivan Doh!
 description: Site description goes here.
-baseurl: "/clean-jekyll-theme"
+baseurl: ""
 url: ""
-github_username:  johndoe
+github_username:  ivan-placid
 permalink: /posts/:year/:month/:day/:title/
 
 # Build settings
