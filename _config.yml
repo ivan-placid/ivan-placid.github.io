@@ -4,7 +4,7 @@ description: Site description goes here.
 baseurl: ""
 url: ""
 github_username:  ivan-placid
-permalink: /posts/:year/:month/:day/:title/
+permalink: /:categories/:title/
 
 # Build settings
 markdown: kramdown
