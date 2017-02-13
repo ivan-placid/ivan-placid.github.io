@@ -8,7 +8,7 @@ module Jekyll
             return if input.nil?
 
             if input =~ /\A#{URI::regexp(['http', 'https'])}\z/
-                input
+                relative_url(input)
             else
                 relative_url(input)
             end
