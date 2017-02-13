@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "You can contact me such much:"
+title: "You can touch me such much:"
 ---
 mail:
 ivan.placid@gmail.com

@@ -1,10 +1,12 @@
 title: Bleeding Edge Tech
 name: Ivan Doh!
-description: Site description goes here.
-baseurl: ""
-url: ""
 github_username:  ivan-placid
+description: Site description goes here.
+
+url: ""
+baseurl: "/test-clean-jekyll-theme"
 permalink: /:categories/:title/
+
 
 # Build settings
 markdown: kramdown
