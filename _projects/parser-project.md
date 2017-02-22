@@ -8,3 +8,6 @@ I was surprised, that sometimes it is easier to hire a freelancer to scrape your
 ### Solution
 I'm not sure if I can share source code here, but I'll mention technologies.
 Since comments section was loaded with JS, I used [dryscrape](https://pypi.python.org/pypi/dryscrape/) instead of [requests](https://pypi.python.org/pypi/requests) to get page body, then [lxml](https://pypi.python.org/pypi/lxml) to extract specific elements (video name, author, etc.) and [PrettyTable](https://pypi.python.org/pypi/PrettyTable) to build an output.
+
+### Client
+[![alt text]({{ site.baseurl }}/assets/img/logo.jpg "Novatour")](http://novatour.ru)
