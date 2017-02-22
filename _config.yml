@@ -4,7 +4,7 @@ github_username:  ivan-placid
 description: Site description goes here.
 
 url: ""
-baseurl: "/test-clean-jekyll-theme"
+baseurl: ""
 permalink: /:categories/:title/
 
 
